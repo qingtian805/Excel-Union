@@ -1,0 +1,10 @@
+[project]
+name = "excel-union"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "~=3.8"
+dependencies = [
+    "openpyxl>=3.1.5",
+    "xlutils>=2.0.0",
+]
